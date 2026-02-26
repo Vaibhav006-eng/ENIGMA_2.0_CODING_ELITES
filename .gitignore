@@ -1,0 +1,22 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application specific
+uploads/
+*.pdf
+*.edf
+*.fif
+temp_audio.webm
+temp_audio.wav
+recording.webm
+
+# OS files
+.DS_Store
+Thumbs.db
